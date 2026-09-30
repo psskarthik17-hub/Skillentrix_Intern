@@ -3,7 +3,7 @@
 # Traffic Light Controller using Verilog
 
 ## Project Description
-This project implements a Traffic Light Controller using Verilog HDL.
+This project implements a Traffic Light Controller using Verilog HDL...
 
 ## Features
 - RED light
@@ -16,7 +16,7 @@ This project implements a Traffic Light Controller using Verilog HDL.
 
 RED → GREEN → YELLOW → RED
 
-## Used toools
+## tools usedd
 - Verilog HDL
 - EDA Playground
 - Simulation Waveform
@@ -26,7 +26,7 @@ RED → GREEN → YELLOW → RED
 - `traffic_light.v` - Main Traffic Light Controller design
 - `tb_traffic_light.v` - Testbench for simulation
 
-## Simulation Result
+## Simulationn Results
 
 The Traffic Light Controller was simulated successfully, and the waveform shows the correct sequence of RED, GREEN, and YELLOW states!
 
